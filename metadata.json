@@ -1,0 +1,6 @@
+{
+  "name": "صانع سكربتات إنستغرام العراقية | Iraqi Reel Script Bot",
+  "description": "بوت ومولد متطور لسكربتات إنستغرام ريلز وفيديوهات قصيرة باللهجة العراقية الأصيلة مع الملقن الذكي وستوري بورد المشاهد والتوجيهات الصوتية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
